@@ -7,7 +7,4 @@ Front-end web dev. dedicated to learn something new everyday.
 📫 How to reach me: bmaniaes@gmail.com
 
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bmaniaes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=bmaniaes&count_private=true&theme=tokyonight&showicons=true)]() 
